@@ -1,2 +1,3 @@
 Le html est le code de base pour faire une page web.Il utilise des balises.
 Le CSS permet l'ajout de style au code html.
+Bootstrap permet d'améliorer le code html plus facilement.
