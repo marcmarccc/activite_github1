@@ -1,0 +1,1 @@
+Le html est le code de base pour faire une page web.Il utilise des balises.
