@@ -1,2 +1,3 @@
 Le php est utilisé pour coder et générer du code html.
 Le php est utile pour rendre une page "dynamique".
+Le php utilise l'extension .php pour ses fichiers.
