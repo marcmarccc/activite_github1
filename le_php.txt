@@ -1,0 +1,1 @@
+Le php est utilisé pour coder et générer du code html.
